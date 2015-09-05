@@ -1,2 +1,3 @@
 # python-course
-Python course for biologists in bioinformatics institute
+Student: Zaytsev Konstantin
+From: ITMO University
